@@ -1,0 +1,12 @@
+{
+    "repositories": [
+      {
+        "type": "composer",
+        "url": "https://packages.drupal.org/8"
+      }
+    ],
+    "require": {
+      "drupal/webform": "^6.0",
+      "drupal/bootstrap_datetime_picker" : "^4.0@alpha"
+    }
+  }

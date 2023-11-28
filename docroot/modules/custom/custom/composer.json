@@ -1,0 +1,9 @@
+{
+    "name": "drupal/custom",
+    "type": "drupal-custom-module",
+    "description": "Custom module",
+    "keywords": ["Drupal"],
+    "require": {
+        "drupal/bootstrap_datetime_picker": "^4.0@alpha"
+    }
+}

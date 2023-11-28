@@ -1,0 +1,7 @@
+custom.first_page:
+  path: '/first-page'
+  defaults:
+    _controller: '\Drupal\custom\Controller\ModalFormContactController::openModalForm'
+    _title: 'Hello World!'
+  requirements:
+    _permission: 'access content'
