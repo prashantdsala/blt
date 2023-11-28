@@ -1,5 +1,6 @@
 project:
   machine_name: blt
+  prefix: 'BLT'
 git:
   remotes:
       - git@github.com:prashantdsala/blt.git
