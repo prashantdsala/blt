@@ -1,0 +1,43 @@
+id: xml_categories
+label: 'Categories local XML source example'
+migration_tags:
+  - XML Source
+  - Taxonomy
+source:
+  constants:
+    TITLE_SUFFIX: ' (Imported from local file)'
+
+  plugin: url
+
+  # This configuration is ignored by the 'xml' data parser plugin.
+  # It only has effect when using the 'simple_xml' data parser plugin.
+  data_fetcher_plugin: file
+
+  # Set to 'xml' to use XMLReader https://www.php.net/manual/en/book.xmlreader.php
+  # Set to 'simple_xml' to use SimpleXML https://www.php.net/manual/en/ref.simplexml.php
+  data_parser_plugin: xml
+
+  urls:
+    - modules/custom/custom_migrations/sources/categories.xml
+
+  # XPath expression. It is common that it starts with a slash (/).
+  item_selector: /categories/category
+  fields:
+    - name: src_unique_id
+      label: 'Unique ID'
+      selector: id
+    - name: src_name
+      label: 'Name'
+      selector: name
+  ids:
+    src_unique_id:
+      type: integer
+process:
+  name: src_name
+    # plugin: concat
+    # source:
+    #   - src_name
+    #   - constants/TITLE_SUFFIX
+destination:
+  plugin: 'entity:taxonomy_term'
+  default_bundle: article_category

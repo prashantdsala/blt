@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <category>Farm story</category>
+    <title>Spaceship crashes into Kent Farm</title>
+    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    <language>en</language>
+    <image>images/abandoned-forest-industry.jpg</image>
+  </row>
+  <row>
+    <id>1</id>
+    <category>Farm story</category>
+    <title>La nave espacial se estrella en Kent Farm</title>
+    <description>Lorem Ipsum es simplemente texto ficticio de la industria de impresión y composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el año 1500, cuando una impresora desconocida tomó una galera de tipo y la revistió para hacer un libro tipo de espécimen. Ha sobrevivido no solo cinco siglos, sino también el salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios. Se popularizó en la década de 1960 con el lanzamiento de las hojas de Letraset que contienen pasajes de Lorem Ipsum, y más recientemente con software de autoedición como Aldus PageMaker, incluidas las versiones de Lorem Ipsum.</description>
+    <language>es</language>
+    <image>images/beach-exotic-holiday.jpg</image>
+  </row>
+  <row>
+    <id>1</id>
+    <category>Farm story</category>
+    <title>La nave spaziale si schianta contro Kent Farm</title>
+    <description>Lorem Ipsum è semplicemente un testo fittizio dell&apos;industria della stampa e della composizione. Lorem Ipsum è stato il testo fittizio standard del settore sin dal 1500, quando una stampante sconosciuta ha preso una cambusa di tipo e l&apos;ha codificata per creare un libro esemplificativo di tipo. È sopravvissuto non solo a cinque secoli, ma anche al salto nella composizione elettronica, rimanendo sostanzialmente invariato. È stato reso popolare negli anni &apos;60 con la pubblicazione di fogli Letraset contenenti brani di Lorem Ipsum e, più recentemente, con software di desktop publishing come Aldus PageMaker che include versioni di Lorem Ipsum.</description>
+    <language>it</language>
+    <image>images/countfornature.jpg</image>
+  </row>
+  <row>
+    <id>2</id>
+    <category>Metropolis story</category>
+    <title>Clark runs faster than a bullet</title>
+    <description>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &apos;Content here, content here&apos;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &apos;lorem ipsum&apos; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</description>
+    <language>en</language>
+    <image>images/daylight-environment-forest.jpg</image>
+  </row>
+  <row>
+    <id>2</id>
+    <category>Metropolis story</category>
+    <title>Clark corre más rápido que una bala</title>
+    <description>Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página al mirar su diseño. El objetivo de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal, en contraposición al uso de &quot;Contenido aquí, contenido aquí&quot;, que lo hace parecer inglés legible. Muchos paquetes de autoedición y editores de páginas web ahora usan Lorem Ipsum como su texto modelo predeterminado, y una búsqueda de &apos;lorem ipsum&apos; descubrirá muchos sitios web aún en su infancia. Varias versiones han evolucionado a lo largo de los años, a veces por accidente, a veces a propósito (humor inyectado y cosas por el estilo).</description>
+    <language>es</language>
+    <image>images/featured_art_disappearing_sounds_istock.jpg</image>
+  </row>
+  <row>
+    <id>2</id>
+    <category>Metropolis story</category>
+    <title>Clark corre più veloce di un proiettile</title>
+    <description>È un dato di fatto che un lettore sarà distratto dal contenuto leggibile di una pagina quando guarderà al suo layout. Il punto di utilizzo di Lorem Ipsum è che ha una distribuzione più o meno normale di lettere, invece di usare &quot;Contenuto qui, contenuto qui&quot;, facendo apparire l&apos;inglese leggibile. Molti pacchetti di desktop publishing e editor di pagine web ora usano Lorem Ipsum come testo di modello predefinito, e una ricerca di &quot;lorem ipsum&quot; scoprirà molti siti Web ancora nella loro infanzia. Varie versioni si sono evolute nel corso degli anni, a volte per caso, a volte di proposito (umorismo iniettato e simili).</description>
+    <language>it</language>
+    <image>images/fubiz-national-geographic-nature-photographer-david-swindler.jpg</image>
+  </row>
+  <row>
+    <id>3</id>
+    <category>Farm story</category>
+    <title>Clark leaps 1000 yards</title>
+    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &quot;de Finibus Bonorum et Malorum&quot; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &quot;Lorem ipsum dolor sit amet..&quot;, comes from a line in section 1.10.32.</description>
+    <language>en</language>
+    <image>images/maxresdefault.jpg</image>
+  </row>
+  <row>
+    <id>3</id>
+    <category>Farm story</category>
+    <title>Clark salta 1000 yardas</title>
+    <description>Contrario a la creencia popular, Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raíces en una pieza de literatura latina clásica del año 45 aC, lo que hace más de 2000 años. Richard McClintock, un profesor de latín en Hampden-Sydney College en Virginia, buscó una de las palabras latinas más oscuras, consectetur, de un pasaje de Lorem Ipsum, y pasando por las citas de la palabra en la literatura clásica, descubrió la fuente indudable. Lorem Ipsum proviene de las secciones 1.10.32 y 1.10.33 de &quot;Finibus Bonorum et Malorum&quot; (Los extremos del bien y del mal) de Cicerón, escrita en el año 45 aC. Este libro es un tratado sobre la teoría de la ética, muy popular durante el Renacimiento. La primera línea de Lorem Ipsum, &quot;Lorem ipsum dolor sit amet ..&quot;, proviene de una línea en la sección 1.10.32.</description>
+    <language>es</language>
+    <image>images/Monasterio_Khor_Virap,_Armenia.jpg</image>
+  </row>
+  <row>
+    <id>3</id>
+    <category>Farm story</category>
+    <title>Clark salta a 1000 yarde</title>
+    <description>Contrariamente alla credenza popolare, Lorem Ipsum non è semplicemente un testo casuale. Ha radici in un pezzo di letteratura latina classica del 45 aC, diventando più antico di 2000 anni. Richard McClintock, professore latino all&apos;Hampden-Sydney College in Virginia, cercò una delle più oscure parole latine, consectetur, da un passaggio di Lorem Ipsum, e passò attraverso le citazioni della parola nella letteratura classica, scoprendo l&apos;indiscutibile fonte. Lorem Ipsum proviene dalle sezioni 1.10.32 e 1.10.33 di &quot;de Finibus Bonorum et Malorum&quot; (Gli estremi del bene e del male) di Cicerone, scritto nel 45 aC. Questo libro è un trattato sulla teoria dell&apos;etica, molto popolare durante il Rinascimento. La prima riga di Lorem Ipsum, &quot;Lorem ipsum dolor sit amet ..&quot;, proviene da una riga nella sezione 1.10.32.</description>
+    <language>it</language>
+    <image>images/mountain1213.jpg</image>
+  </row>
+  <row>
+    <id>4</id>
+    <category>Metropolis story</category>
+    <title>Clark goes to Metropolis</title>
+    <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&apos;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&apos;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</description>
+    <language>en</language>
+    <image>images/Singapore-parks-Windsor-nature-park.jpg</image>
+  </row>
+  <row>
+    <id>4</id>
+    <category>Metropolis story</category>
+    <title>Clark va a Metrópolis</title>
+    <description>Hay muchas variaciones de pasajes de Lorem Ipsum disponibles, pero la mayoría ha sufrido alteraciones de alguna forma, por humor inyectado o palabras aleatorias que no parecen ni siquiera ligeramente creíbles. Si va a utilizar un pasaje de Lorem Ipsum, debe asegurarse de que no haya nada embarazoso oculto en el medio del texto. Todos los generadores de Lorem Ipsum en Internet tienden a repetir fragmentos predefinidos según sea necesario, convirtiéndolo en el primer generador verdadero en Internet. Utiliza un diccionario de más de 200 palabras en latín, combinado con un puñado de estructuras de oraciones modelo, para generar Lorem Ipsum que parece razonable. El Lorem Ipsum generado, por lo tanto, siempre está libre de repetición, humor inyectado o palabras no características, etc.</description>
+    <language>es</language>
+    <image>images/slider-4-2.jpg</image>
+  </row>
+  <row>
+    <id>4</id>
+    <category>Metropolis story</category>
+    <title>Clark va a Metropolis</title>
+    <description>Ci sono molte varianti di passaggi di Lorem Ipsum disponibili, ma la maggior parte ha subito alterazioni in qualche forma, con umorismo iniettato, o parole casuali che non sembrano nemmeno leggermente credibili. Se stai per utilizzare un passaggio di Lorem Ipsum, devi essere sicuro che non vi sia nulla di imbarazzante nascosto nel mezzo del testo. Tutti i generatori Lorem Ipsum su Internet tendono a ripetere blocchi predefiniti come necessario, rendendo questo il primo vero generatore su Internet. Usa un dizionario di oltre 200 parole latine, combinato con una manciata di strutture di frasi modello, per generare Lorem Ipsum che sembra ragionevole. Il Lorem Ipsum generato è quindi sempre esente da ripetizioni, umorismo iniettato o parole non caratteristiche ecc.</description>
+    <language>it</language>
+    <image>images/walking-nature.jpg</image>
+  </row>
+</root>
